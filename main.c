@@ -2,6 +2,10 @@
 COSC 4302: Introduction to Operating Systems
 Group Project: Simple Shell
 
+Group 27
+Naman Subedi (L20615286)
+Vijender Reddy Sirrapu (L20610709)
+
 Starting with the code in Section 2.4, design and implement a simple, interactive shell pro-gram that prompts the user for a command,
 parses the command, and then executes it with a child process. In your solution you are required to use execv ( ) instead of execvp ( ),
 which means that you will have to read the PATH environment variable, then search each directory in the PATH for the command file name
